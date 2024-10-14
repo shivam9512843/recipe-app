@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Caesar Salad",
+    "description": "A classic Caesar salad with crispy croutons.",
+    "category": "salad",
+    "image": "/images/caesar-salad.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vegetarian Chili",
+    "description": "A hearty chili made with various beans and vegetables.",
+    "category": "vegetarian",
+    "image": "/images/vegetarian-chili.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Cake",
+    "description": "A rich and moist chocolate cake.",
+    "category": "dessert",
+    "image": "/images/chocolate-cake.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Carbonara",
+    "description": "A creamy pasta dish with pancetta and parmesan.",
+    "category": "popular",
+    "image": "/images/spaghetti-carbonara.jpg"
+  }
+]
