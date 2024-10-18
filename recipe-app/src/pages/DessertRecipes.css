@@ -1,0 +1,28 @@
+/*src/pages/DessertRecipes.css */
+.recipe-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.recipe-card {
+  flex: 1 1 calc(33.333% - 16px);
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.recipe-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+h3 {
+  margin: 8px 0;
+}
+
+p {
+  margin: 0 8px 16px;
+}
